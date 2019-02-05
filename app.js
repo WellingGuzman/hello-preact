@@ -1,4 +1,4 @@
-const { h, render, Component } = preact;
+import { h, render, Component } from 'preact';
 
 class HelloPreact extends Component {
 	render() {
